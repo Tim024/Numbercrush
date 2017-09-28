@@ -1,9 +1,10 @@
 # NumberCrush v0.1
 
 To play the game run
-` ` `
+```
 python3 numbercrush.py
-` ` `
+```
+pygame required
 
 # Rules
 You have blocks appear on top of the grid. You have 3 seconds to decide where to place it (use the arrow to move the block).
